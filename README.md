@@ -5,6 +5,12 @@ scripts to get and analyze the output from Brain Sight
 this code requires Veta-Toolbox (https://www.frontiersin.org/articles/10.3389/fnins.2019.00975/full)
 See example directory for the example usage of this toolbox 
 
+## INSTALLATION
+
+just type
+addpath(genpath('whereever you located this toolbox'))
+addpath(genpath('whereever you located the Veta toolbox'))
+
 ## AUTHOR
 Ikko Kimura, Osaka Univeristy, 2020/09/15
 
