@@ -3,7 +3,10 @@
 scripts to get and analyze the output from Brain Sight
 
 this code requires Veta-Toolbox (https://www.frontiersin.org/articles/10.3389/fnins.2019.00975/full)
-See example directory for the example usage of this toolbox 
+See "example" directory for the example usage of this toolbox 
+
+please cite the following paper if you use this toolbox
+https://academic.oup.com/cercorcomms/article/3/1/tgab065/6461917
 
 ## INSTALLATION
 
